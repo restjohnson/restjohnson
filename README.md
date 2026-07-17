@@ -12,9 +12,9 @@
  
 ### About me
  
-I build AI systems that sit at the intersection of research and real-world impact. My doctoral work focuses on multi-agent AI and evidence-grounded advising for computing students. I also teach Software Engineering (ITSC 3155) and Logic and Algorithms (ITSC 2175) at UNC Charlotte, and I am on track to graduate in May 2027.
+I build AI systems that sit at the intersection of research and real-world impact. My doctoral work focuses on multi-agent AI and evidence-grounded advising for computing students. 
  
-My post-PhD goal is an industry ML or AI engineer role, where I can bring both research rigor and production-minded thinking to the table.
+My post-education goal is an industry ML or AI engineer role, where I can bring both research rigor and production-minded thinking to the table.
  
 ---
  
@@ -58,13 +58,6 @@ A full-stack PhD project management system built on MongoDB, Express, React, and
 - Agentic system design and MCP tooling
 ---
  
-### GitHub stats
- 
-![Rest's GitHub stats](https://github-readme-stats.vercel.app/api?username=restjohnson&show_icons=true&hide_border=true&theme=default)
- 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=restjohnson&layout=compact&hide_border=true&theme=default)
- 
----
  
 <p align="center">
   Open to research collaborations, industry conversations, and connecting with fellow builders.
