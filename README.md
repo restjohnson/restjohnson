@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rest Johnson</h1>
  
 <p align="center">
-  PhD Candidate &nbsp;·&nbsp; UNC Charlotte &nbsp;·&nbsp; Computing and Informatics
+  Computational Developer&nbsp;·&nbsp; AI & Data Scientist &nbsp;·&nbsp; UNC Charlotte &nbsp;·&nbsp; Computing and Informatics
 </p>
 <p align="center">
   <a href="mailto:your.email@uncc.edu">Email</a> &nbsp;·&nbsp;
