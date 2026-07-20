@@ -5,8 +5,8 @@
 </p>
 <p align="center">
   <a href="mailto:your.email@uncc.edu">Email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://scholar.google.com/yourprofile">Google Scholar</a>
+   <a href="https://www.linkedin.com/in/oluwagbeminiyi-johnson-60533426a/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=1DcuQsQAAAAJ&hl=en">Google Scholar</a>
 </p>
 ---
  
