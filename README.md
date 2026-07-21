@@ -14,7 +14,7 @@
  
 I build AI systems that sit at the intersection of research and real-world impact. My doctoral work focuses on multi-agent AI and evidence-grounded advising for computing students. 
  
-My post-education goal is an industry ML or AI engineer role, where I can bring both research rigor and production-minded thinking to the table.
+My post-education goal is an industry Data Science, ML or AI engineer role, where I can bring both research rigor and production-minded thinking to the table.
  
 ---
  
